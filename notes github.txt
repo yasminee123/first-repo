@@ -7,3 +7,4 @@
 // je veux que git connait mes fichies : git add nom fichier ou git add . ( barra t3aref ala ay fichier jdid kodem les fichiers 3ana A donc les fichiers yarfhom el git ama mafehom hata version
 //git commit-m"nom" tsajelek version 
 //M fichier gt yarfou ama enty amalt alih modification par rapport à la derniére vers li and el git
+// si on a modifié un fichier connu par git git commit -am
