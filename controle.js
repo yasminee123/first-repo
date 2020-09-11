@@ -30,4 +30,3 @@ document.write("</ul>")*/
 //terminal -> git init (iwali yepointi ala el dossier li ena nheb naamalou versionnage w n9olou arja3 lel version el foulaneya)
 //U :  c'est un nouveau fichier non connu par git 
 // je veux que git connait mes fichies : git add nom fichier ou git add . ( barra t3aref ala ay fichier jdid)
-console.log('hi')
