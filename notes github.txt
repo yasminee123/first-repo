@@ -8,3 +8,8 @@
 //git commit-m"nom" tsajelek version 
 //M fichier gt yarfou ama enty amalt alih modification par rapport à la derniére vers li and el git
 // si on a modifié un fichier connu par git git commit -am
+README.md // pour les remarqueq
+.gitignore fih fichier manhebouch yatla3 lel git nhot fih el chemin mte3ou
+
+gitgithub open classro (commandes el git kaaahaw)
+angular mush
